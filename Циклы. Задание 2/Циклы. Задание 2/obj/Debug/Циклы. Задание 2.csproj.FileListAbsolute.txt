@@ -1,0 +1,7 @@
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\bin\Debug\Циклы.Задание_2.exe.config
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\bin\Debug\Циклы.Задание_2.exe
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\bin\Debug\Циклы.Задание_2.pdb
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\obj\Debug\Циклы. Задание 2.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\obj\Debug\Циклы. Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\obj\Debug\Циклы.Задание_2.exe
+C:\Users\Doharo\Desktop\Циклы. Задание 2\Циклы. Задание 2\obj\Debug\Циклы.Задание_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\bin\Debug\циклы.Задание_4.exe.config
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\bin\Debug\циклы.Задание_4.exe
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\bin\Debug\циклы.Задание_4.pdb
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\obj\Debug\циклы. Задание 4.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\obj\Debug\циклы. Задание 4.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\obj\Debug\циклы.Задание_4.exe
+C:\Users\Doharo\Desktop\циклы. Задание 4\циклы. Задание 4\obj\Debug\циклы.Задание_4.pdb

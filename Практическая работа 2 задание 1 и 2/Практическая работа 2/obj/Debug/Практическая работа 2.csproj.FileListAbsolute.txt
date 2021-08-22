@@ -1,0 +1,12 @@
+C:\Users\Doharo\Desktop\Практическая работа 2\Практическая работа 2\bin\Debug\Практическая работа 2.exe.config
+C:\Users\Doharo\Desktop\Практическая работа 2\Практическая работа 2\bin\Debug\Практическая работа 2.exe
+C:\Users\Doharo\Desktop\Практическая работа 2\Практическая работа 2\bin\Debug\Практическая работа 2.pdb
+C:\Users\Doharo\Desktop\Практическая работа 2\Практическая работа 2\obj\Debug\Практическая работа 2.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\Практическая работа 2\Практическая работа 2\obj\Debug\Практическая работа 2.exe
+C:\Users\Doharo\Desktop\Практическая работа 2\Практическая работа 2\obj\Debug\Практическая работа 2.pdb
+C:\Users\Doharo\Desktop\практическая работа\Практическая работа 2 задание 1 и 2\Практическая работа 2\bin\Debug\Практическая работа 2.exe.config
+C:\Users\Doharo\Desktop\практическая работа\Практическая работа 2 задание 1 и 2\Практическая работа 2\bin\Debug\Практическая работа 2.exe
+C:\Users\Doharo\Desktop\практическая работа\Практическая работа 2 задание 1 и 2\Практическая работа 2\obj\Debug\Практическая работа 2.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\практическая работа\Практическая работа 2 задание 1 и 2\Практическая работа 2\obj\Debug\Практическая работа 2.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\практическая работа\Практическая работа 2 задание 1 и 2\Практическая работа 2\obj\Debug\Практическая работа 2.exe
+C:\Users\Doharo\Desktop\практическая работа\Практическая работа 2 задание 1 и 2\Практическая работа 2\obj\Debug\Практическая работа 2.pdb

@@ -1,0 +1,14 @@
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\bin\Debug\Циклы.Задание_3.exe.config
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\bin\Debug\Циклы.Задание_3.exe
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\bin\Debug\Циклы.Задание_3.pdb
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы. Задание 3.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы. Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы.Задание_3.exe
+C:\Users\Doharo\Desktop\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы.Задание_3.pdb
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\bin\Debug\Циклы.Задание_3.exe.config
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\bin\Debug\Циклы.Задание_3.exe
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\bin\Debug\Циклы.Задание_3.pdb
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы. Задание 3.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы. Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы.Задание_3.exe
+C:\Users\Doharo\Desktop\практическая работа\Циклы. Задание 3\Циклы. Задание 3\obj\Debug\Циклы.Задание_3.pdb

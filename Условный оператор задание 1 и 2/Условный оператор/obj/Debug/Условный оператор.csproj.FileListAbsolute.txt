@@ -1,0 +1,14 @@
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\bin\Debug\Условный оператор.exe.config
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\bin\Debug\Условный оператор.exe
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\bin\Debug\Условный оператор.pdb
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\obj\Debug\Условный оператор.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\obj\Debug\Условный оператор.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\obj\Debug\Условный оператор.exe
+C:\Users\Doharo\Desktop\Условный оператор\Условный оператор\obj\Debug\Условный оператор.pdb
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\bin\Debug\Условный оператор.exe.config
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\bin\Debug\Условный оператор.exe
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\bin\Debug\Условный оператор.pdb
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\obj\Debug\Условный оператор.csprojAssemblyReference.cache
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\obj\Debug\Условный оператор.csproj.CoreCompileInputs.cache
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\obj\Debug\Условный оператор.exe
+C:\Users\Doharo\Desktop\практическая работа\Условный оператор задание 1 и 2\Условный оператор\obj\Debug\Условный оператор.pdb
